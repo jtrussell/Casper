@@ -1,12 +1,11 @@
-# Casper
+# ~~Casper~~ Jasper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
-
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+A small deviation from the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
 ## Copyright & License
 
-Copyright (c) 2013-2015 Ghost Foundation - Released under the MIT License.
+Copyright (c) 2013-2015 Ghost Foundation (through ede6b03afad148eadba701bce9e65401d9e034e8) - Released under the MIT License.
+Modifications Copyright (c) 2015 jtrussell - Released under The MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
